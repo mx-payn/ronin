@@ -1,5 +1,4 @@
 /** @page about About
-  @section doc ModernCppStarter Documentation 
-  This is the auto-generated documentation for the initial project of the ModernCppStater.
-  It shows how we can use Doxygen to automatically build a browsable documentation for your projects.
+  @section doc Ronin Documentation
+  Ronin is a rogue-like game engine for educational games.
 */
