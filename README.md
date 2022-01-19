@@ -1,9 +1,9 @@
-[![Actions Status](https://github.com/TheLartians/ModernCppStarter/workflows/MacOS/badge.svg)](https://github.com/TheLartians/ModernCppStarter/actions)
-[![Actions Status](https://github.com/TheLartians/ModernCppStarter/workflows/Windows/badge.svg)](https://github.com/TheLartians/ModernCppStarter/actions)
-[![Actions Status](https://github.com/TheLartians/ModernCppStarter/workflows/Ubuntu/badge.svg)](https://github.com/TheLartians/ModernCppStarter/actions)
-[![Actions Status](https://github.com/TheLartians/ModernCppStarter/workflows/Style/badge.svg)](https://github.com/TheLartians/ModernCppStarter/actions)
-[![Actions Status](https://github.com/TheLartians/ModernCppStarter/workflows/Install/badge.svg)](https://github.com/TheLartians/ModernCppStarter/actions)
-[![codecov](https://codecov.io/gh/TheLartians/ModernCppStarter/branch/master/graph/badge.svg)](https://codecov.io/gh/TheLartians/ModernCppStarter)
+[![Actions Status](https://github.com/mx-payn/ronin/workflows/MacOS/badge.svg)](https://github.com/mx-payn/ronin/actions)
+[![Actions Status](https://github.com/mx-payn/ronin/workflows/Windows/badge.svg)](https://github.com/mx-payn/ronin/actions)
+[![Actions Status](https://github.com/mx-payn/ronin/workflows/Ubuntu/badge.svg)](https://github.com/mx-payn/ronin/actions)
+[![Actions Status](https://github.com/mx-payn/ronin/workflows/Style/badge.svg)](https://github.com/mx-payn/ronin/actions)
+[![Actions Status](https://github.com/mx-payn/ronin/workflows/Install/badge.svg)](https://github.com/mx-payn/ronin/actions)
+[![codecov](https://codecov.io/gh/mx-payn/ronin/branch/master/graph/badge.svg)](https://codecov.io/gh/mx-payn/ronin)
 
 # Ronin Game Engine
 
